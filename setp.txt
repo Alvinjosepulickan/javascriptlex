@@ -1,0 +1,3 @@
+install vscode
+install liveserver
+install EsLint

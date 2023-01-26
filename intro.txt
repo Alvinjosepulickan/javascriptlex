@@ -1,0 +1,5 @@
+JavaScript is the programming language for web users to convert static web pages to dynamic web pages.
+Web page designed using HTML and CSS is static.
+JavaScript combined with HTML and CSS makes it dynamic.
+
+
