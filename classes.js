@@ -77,3 +77,4 @@ per.pname = "Rexha";                 // line 9
 console.log(per.pname);              // line 10
 let per1 = new Person("Alex", 10);   // line 11
 console.log(per1.pname);             // line 12
+
